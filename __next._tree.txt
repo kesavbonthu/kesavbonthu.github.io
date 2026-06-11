@@ -1,4 +1,4 @@
 :HL["/_next/static/css/fa0b243227f94dba.css","style"]
 :HL["/uw-logo.png","image"]
 :HL["/iitm-logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"G4j27auzhyLYsC7kj9_xN"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"_OWEEOqqP0CYOC-mi1qPj"}
