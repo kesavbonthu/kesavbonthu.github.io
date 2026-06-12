@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/21sw50k22xbbo.css","style"]
+:HL["/_next/static/chunks/42eqzwj-qji0i.css","style"]
 :HL["/uw-logo.png","image"]
 :HL["/iitm-logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"joblens-ai","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"okI-aqIh99JBgokKO0KVw"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"joblens-ai","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"KvM_1WP7HxWpmiNODT0Uz"}
