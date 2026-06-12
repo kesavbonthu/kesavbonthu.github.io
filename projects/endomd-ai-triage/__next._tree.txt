@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/2fuss5o_vuf3j.css","style"]
+:HL["/_next/static/chunks/26zj563xmdf_m.css","style"]
 :HL["/uw-logo.png","image"]
 :HL["/iitm-logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"endomd-ai-triage","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"xLh4fazDpUCM3BKXWu6Mk"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"endomd-ai-triage","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"t_l0JUf1wqeGLejCyz_2W"}
